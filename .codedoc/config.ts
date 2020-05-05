@@ -13,6 +13,10 @@ export const config = /*#__PURE__*/configuration({
     }
   },
   
+  dest: {
+    namespace: '/blog',
+  },
+  
   misc: {
     github: {
       user: 'tylermackj',
