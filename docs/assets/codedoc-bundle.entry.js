@@ -12,9 +12,9 @@ import { loadDeferredIFrames } from '/home/tyler/dev/codedoc/blog/.codedoc/node_
 import { smoothLoading } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js';smoothLoading();
 import { tocHighlight } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js';tocHighlight();
 import { postNavSearch } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js';postNavSearch();
-import { reloadOnChange } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js';reloadOnChange();
 import { TabSelector } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js';
 import { CollapseControl } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js';
+import { GithubSearch } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js';
 import { ToCToggle } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js';
 import { DarkModeSwitch } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js';
 import { ConfigTransport } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js';
@@ -22,6 +22,7 @@ import { ConfigTransport } from '/home/tyler/dev/codedoc/blog/.codedoc/node_modu
 const components = {
   'J0wgazktbZUjdISUD+A+yQ==': TabSelector,
   'cnUjX84N4USZxspeSISSeQ==': CollapseControl,
+  'nu0eFj2Tg2ZKZBT6HUQXUA==': GithubSearch,
   'r+KJL48+s/wbPvee5KMgCQ==': ToCToggle,
   'KpIwwdUnw5tPEVxiE0Zhfw==': DarkModeSwitch,
   'J7n9h5Hkx7EwL/YAaORytQ==': ConfigTransport

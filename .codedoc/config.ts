@@ -23,7 +23,8 @@ export const config = /*#__PURE__*/configuration({
       repo: 'blog',
       action: 'Star',
       count: false,
-      large: 'false',
+      large: false,
       standardIcon: false,
+    },
   },
 });

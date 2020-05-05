@@ -64,11 +64,6 @@
       "name": "postNavSearch",
       "filename": "/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
       "hash": "eiAbqRhWqQCPiNMrJP3FDg=="
-    },
-    {
-      "name": "reloadOnChange",
-      "filename": "/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
-      "hash": "kN7MkZ/NikaVwgv4/osMPw=="
     }
   ],
   "components": [
@@ -81,6 +76,11 @@
       "name": "CollapseControl",
       "filename": "/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
       "hash": "cnUjX84N4USZxspeSISSeQ=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/home/tyler/dev/codedoc/blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "nu0eFj2Tg2ZKZBT6HUQXUA=="
     },
     {
       "name": "ToCToggle",
