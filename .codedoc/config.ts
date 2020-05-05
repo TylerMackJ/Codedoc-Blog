@@ -12,4 +12,14 @@ export const config = /*#__PURE__*/configuration({
       base: 'Blog'                        // --> the base title of your doc pages
     }
   },
+  
+  misc: {
+    github: {
+      user: 'tylermackj',
+      repo: 'blog',
+      action: 'Star',
+      count: false,
+      large: 'false',
+      standardIcon: false,
+  },
 });
