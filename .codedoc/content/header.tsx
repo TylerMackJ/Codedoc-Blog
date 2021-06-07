@@ -11,10 +11,11 @@ export function Header(config: CodedocConfig, renderer: any) {
           user={config.misc.github.user}
           large={config.misc.github.large === true}
           count={config.misc.github.count !== false}
-          standardIcon={config.misc.github.standardIcon !== false} />
-        <br /><br />
+          standardIcon={config.misc.github.standardIcon !== false}/>
+        <br/><br/>
       </fragment>
       : ''}
+      <Watermark/>
     </_Header>
   )
 }

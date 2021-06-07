@@ -5,16 +5,18 @@ import { theme } from './theme';
 
 
 export const config = /*#__PURE__*/configuration({
-  theme,                                  // --> add the theme. modify `./theme.ts` for chaning the theme.
-
+  theme,                                  // --> add the theme. modify `./theme.ts` for changing the theme.
+  
   page: {
     title: {
-      base: 'Blog'                        // --> the base title of your doc pages
+      base: 'Codedoc Blog'                // --> the base title of your doc pages
     }
   },
-  
+
   dest: {
-    namespace: '/blog',
+    // ...
+    html: 'dist',
+    assets: 'dist',
   },
   
   misc: {
@@ -24,7 +26,7 @@ export const config = /*#__PURE__*/configuration({
       action: 'Star',
       count: false,
       large: false,
-      standardIcon: false,
+      standardIcon: true,
     },
   },
 });

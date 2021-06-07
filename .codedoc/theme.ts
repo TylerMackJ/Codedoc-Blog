@@ -7,8 +7,5 @@ export const theme = /*#__PURE__*/createTheme({
   },
   dark: {
     primary: '#1eb2a6'
-  },
-  code: {
-    wmbar: false,
   }
 });
