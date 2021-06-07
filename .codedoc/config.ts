@@ -16,7 +16,7 @@ export const config = /*#__PURE__*/configuration({
   dest: {
     html: 'dist',
     assets: 'dist',
-    namespace: '/codedoc-blog'
+    namespace: '/Codedoc-Blog'
   },
   
   misc: {
