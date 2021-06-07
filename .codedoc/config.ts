@@ -14,15 +14,15 @@ export const config = /*#__PURE__*/configuration({
   },
 
   dest: {
-    // ...
     html: 'dist',
     assets: 'dist',
+    namespace: '/codedoc-blog'
   },
   
   misc: {
     github: {
       user: 'tylermackj',
-      repo: 'blog',
+      repo: 'Codedoc-Blog',
       action: 'Star',
       count: false,
       large: false,
