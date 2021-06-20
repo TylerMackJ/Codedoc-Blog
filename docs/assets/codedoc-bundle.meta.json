@@ -2,120 +2,120 @@
   "init": [
     {
       "name": "initJssCs",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
-      "hash": "wafvHTPBn95k/UOVTlecaQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "tfdqP197Q9iD1Htu3lCYJA=="
     },
     {
       "name": "installTheme",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/content/theme.ts",
-      "hash": "zL2TxGnDLSI2TTMdUYfxLQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/content/theme.ts",
+      "hash": "+aVJN0SvzfnhnuY6EjiS5w=="
     },
     {
       "name": "codeSelection",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
-      "hash": "o2zWorxNXvFSyHLbtBF9sQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "y56kvl4sWiLSKZtMnKl8WQ=="
     },
     {
       "name": "sameLineLengthInCodes",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
-      "hash": "l9jrf8tncJPSBlqf1+13uw=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "HvUNnZ7SspxeBphjh55gnQ=="
     },
     {
       "name": "initHintBox",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
-      "hash": "AU2sgIn++Lv6eaERo5/QEg=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "jxVe/jP/RkaL9lRLifOTvA=="
     },
     {
       "name": "initCodeLineRef",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
-      "hash": "HR6/93lZX6BKgqdl9KTdNA=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "xfZQ99R2HDlhTQOwr4P4lw=="
     },
     {
       "name": "initSmartCopy",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
-      "hash": "dytbBtxTXXbAZEIocB6k+A=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "6E3BWmFviegRGpdIS1mvWg=="
     },
     {
       "name": "copyHeadings",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
-      "hash": "S8wrAqLGUUbtdLdxL68xCQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "a/mcoHLJD64odacuDlpYPQ=="
     },
     {
       "name": "contentNavHighlight",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
-      "hash": "91DBp5mloHlzy0731kIhWQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "B5eNCGNMh012hK6aEJoPZQ=="
     },
     {
       "name": "loadDeferredIFrames",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
-      "hash": "0vE3a79xJPq+79cy7Im0Xg=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "FRBpY7UXEbY1CB3SXofiYg=="
     },
     {
       "name": "smoothLoading",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
-      "hash": "af9xx3IHYLzE/QbEb86qng=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "tRdjsMzzZCl7fy9ycSIA9w=="
     },
     {
       "name": "tocHighlight",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
-      "hash": "2HbsnjwgtTeznrsCUGesgQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "FS6SRYgNRE5bPmvwfw7H0w=="
     },
     {
       "name": "postNavSearch",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
-      "hash": "oqoq2cqzyJn4D7pf2SptAw=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "zpEAT4t4knsJ3Qv+D8UDRQ=="
     },
     {
       "name": "copyLineLinks",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
-      "hash": "tjzPAr/5AKf5zGpTmPAjlQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "TryuAvy0b5zR7NxH5pDqXw=="
     },
     {
       "name": "gatherFootnotes",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
-      "hash": "Rtt1sB2m/JCu44QQMJ5Xjw=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "GNPG7B4e159jkkj9IrsQ8Q=="
     }
   ],
   "components": [
     {
       "name": "TabSelector",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
-      "hash": "TAYUfIX4cNckmqefYTSFnQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "++sK6Zms/+ntweCgI47IkA=="
     },
     {
       "name": "CollapseControl",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
-      "hash": "ySstuCC1Y9CIzjYmdgLAiA=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "OfucSt0Mk//dyE5PqKGEMQ=="
     },
     {
       "name": "GithubSearch",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
-      "hash": "5WeGaRSY2zWYv1KxkUUrjA=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "NapaSvVt/uxtVPWIzV56AA=="
     },
     {
       "name": "ToCToggle",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
-      "hash": "4wB8og5e/csjcaRTAtgWOA=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "wtVdfmOhBLyGfKKEz8sFZg=="
     },
     {
       "name": "DarkModeSwitch",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
-      "hash": "6/mMGxqFuznyjBlcKMHJtg=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "49DyMakS6DtjqshbmHkAUg=="
     },
     {
       "name": "ConfigTransport",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
-      "hash": "Ly5cMN4WepGLY9DkG78WLQ=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "0cI3rqqfGukEUX5+vFE6ow=="
     },
     {
       "name": "ToCPrevNext",
-      "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
-      "hash": "BCxm1iO1XFy4Wv3jLKfruw=="
+      "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "Nj8PYftTaNS5rL/MjXl01w=="
     }
   ],
   "renderer": {
     "name": "getRenderer",
-    "filename": "/home/runner/work/Codedoc-Blog/Codedoc-Blog/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
-    "hash": "u6xI17FOpALUxgdCUH3/6w=="
+    "filename": "/home/runner/work/Learn-to-Code/Learn-to-Code/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "Tpp4LdS7hjSKbg0+zVP2yA=="
   }
 }
